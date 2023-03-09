@@ -1,4 +1,4 @@
-### <div align="center">I'm illyach, a full-time front-end developer 👨‍💻 making main pet projects</div>  
+### <div align="center">I'm illyach, a full-time front-end developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently making projects  
