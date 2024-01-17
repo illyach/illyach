@@ -19,7 +19,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>  
 
-
+[![wakatime](https://wakatime.com/badge/user/71c3d4f8-5560-4dc2-b4cd-401e4c4abcd6.svg)](https://wakatime.com/@71c3d4f8-5560-4dc2-b4cd-401e4c4abcd6)
 
 
 
